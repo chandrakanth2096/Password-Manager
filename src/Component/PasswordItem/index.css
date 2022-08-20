@@ -1,0 +1,72 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.password-item {
+  list-style-type: none;
+  border: 1px solid #9ba9eb;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  margin: 10px;
+}
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+}
+.name-icon {
+  color: #f8fafc;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding-top: 4px;
+  font-weight: 600;
+  border-radius: 100%;
+}
+.names {
+  margin-left: 20px;
+  color: #f8fafc;
+  margin: 10px 0px 10px 10px;
+}
+.names p {
+  margin: 5px 0px 5px 10px;
+}
+.del-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.del-img {
+  width: 26px;
+}
+.stars {
+  width: 110px;
+}
